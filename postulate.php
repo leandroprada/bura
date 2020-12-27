@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
        <meta name="author" content="Grayrids">
-    <title>Postulate! STC - SELECTION TRAINING CONSULTING</title>
+    <title>Postulate! Bura - SELECTION TRAINING CONSULTING</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap CSS -->
@@ -42,7 +42,7 @@
     <header id="slider-area">
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><img src="img/stc2.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="img/Bura2.png" alt=""></a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>
@@ -715,7 +715,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <h3>STC HR</h3>
+              <h3>Bura HR</h3>
               <div class="textwidget">
                 <p>Si sentis que te podemos
 				ayudar, con nuestra dedicacion
@@ -723,9 +723,9 @@
 				Contactanos!!!</p>
               </div>
               <ul class="footer-social">
-                <li><a class="facebook" href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="linkedin" href="https://www.linkedin.com/in/infostchr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
-                <li><a class="google-plus" href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                <li><a class="facebook" href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                <li><a class="linkedin" href="https://www.linkedin.com/in/infoBurahr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                <li><a class="google-plus" href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
@@ -751,7 +751,7 @@
                   </li>
                   <li>
                     <strong>Messenger: </strong> <span><a href="
-https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> STC HR </a></span>
+https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> Bura HR </a></span>
                   </li>
                 </ul>
               </div>
@@ -760,12 +760,12 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
               <div class="widget">
                 <h3 class="block-title">Instagram</h3>
                 <ul class="instagram-footer">
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
                 </ul>
               </div>
             </div>
@@ -840,8 +840,8 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
     <script src="js/contact-form-script.js"></script>
     <script src="js/main.js"></script>
 
-	<!-- Default Statcounter code for STC
-https://www.stchr.info/ -->
+	<!-- Default Statcounter code for Bura
+https://www.Burahr.info/ -->
 <script type="text/javascript">
 var sc_project=12014019;
 var sc_invisible=1;

@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
        <meta name="author" content="Grayrids">
-    <title>STC - SELECTION TRAINING CONSULTING</title>
+    <title>Bura - SELECTION TRAINING CONSULTING</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap CSS -->
@@ -40,7 +40,7 @@
     <header id="slider-area">
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><img src="img/stc2.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="img/Bura2.png" alt=""></a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>
@@ -115,7 +115,7 @@
             <div class="carousel-item active">
               <img src="img/slider/bg-1.jpg" alt="">
               <div class="carousel-caption text-left">
-                <h3 class="wow fadeInRight" data-wow-delay="0.2s">STC - SELECTION TRAINING CONSULTING </h3>
+                <h3 class="wow fadeInRight" data-wow-delay="0.2s">Bura - SELECTION TRAINING CONSULTING </h3>
                 <h2 class="wow fadeInRight" data-wow-delay="0.4s">Recursos Humanos</h2>
                 <h4 class="wow fadeInRight" data-wow-delay="0.6s">Su mejor opción en Córdoba</h4>
                 <a href="#contactenos" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">Contacto</a>
@@ -137,7 +137,7 @@
                 <h3 class="wow fadeInDown" data-wow-delay="0.3s">Necesitas:</h3>
                 <h2 class="wow fadeInRight" data-wow-delay="0.6s">Búsquedas y selecci&oacute;n?</h2>
                 <h4 class="wow fadeInUp" data-wow-delay="0.6s">Podemos ayudarte</h4>
-                <a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank" class="btn btn-lg btn-border wow fadeInUp" data-wow-delay="0.9s">Contactanos</a>
+                <a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank" class="btn btn-lg btn-border wow fadeInUp" data-wow-delay="0.9s">Contactanos</a>
 				<a href="https://docs.google.com/forms/d/e/1FAIpQLSdC3r-62uoIuA0nKSRKRJJTKIq4u4k7mNk_PWb5NN2VIe20vA/viewform" target="_blank" class="btn btn-lg btn-border wow fadeInUp" data-wow-delay="0.9s">Postulate</a>
               </div>
             </div>
@@ -213,7 +213,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
             <div class="cta-trial text-center">
               <h3>Estás listo para comenzar?</h3>
               <p>Trabajemos juntos.<br> Llamanos para entender tus necesidades y ver c&oacute;mo podemos ayudarte</p>
-              <a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
+              <a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
             </div>
           </div>
         </div>
@@ -801,7 +801,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                     </div>
                   </div>
                   <div class="content-inner">
-                    <p class="description">Recomiendo a STCHR porque sus miembros son profesionales de RR. HH. cuyo valor agregado est&aacute; en el trato hacia las personas. Como docentes han sido incre&iacute;bles. Gracias chicas! </p>
+                    <p class="description">Recomiendo a BuraHR porque sus miembros son profesionales de RR. HH. cuyo valor agregado est&aacute; en el trato hacia las personas. Como docentes han sido incre&iacute;bles. Gracias chicas! </p>
                     <span><i class="lni-star-filled"></i></span>
                     <span><i class="lni-star-filled"></i></span>
                     <span><i class="lni-star-filled"></i></span>
@@ -1017,8 +1017,8 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                   <h4 class="team-title">Romina C&oacute;rdoba</h4>
                   <p>Directora</p>
                   <ul class="social-list">
-                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                    <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="facebook"><a href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infoBurahr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
                     <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
                     <li class="linkedin"><a href="https://www.linkedin.com/in/romina-cordoba/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
@@ -1035,9 +1035,9 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                   <h4 class="team-title">Octabrina Gonz&aacute;lez</h4>
                   <p>Community Manager</p>
                   <ul class="social-list">
-                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                    <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
-                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="facebook"><a href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infoBurahr"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
                     <li class="linkedin"><a href="https://www.linkedin.com/in/octabrina-gonzalez-15478b14b/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
                 </div>
@@ -1053,9 +1053,9 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                   <h4 class="team-title">Alicia Caballero</h4>
                   <p>Administraci&oacute;n</p>
                   <ul class="social-list">
-                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                    <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
-                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="facebook"><a href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infoBurahr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
                     <li class="linkedin"><a href="https://www.linkedin.com/in/matias-zalazar-71152565/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
                 </div>
@@ -1072,8 +1072,8 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                   <p>IT</p>
                   <ul class="social-list">
                     <li class="facebook"><a href="https://www.facebook.com/leandroprada" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                    <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
-                     <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infoBurahr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
+                     <li class="google-plus"><a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
                     <li class="linkedin"><a href="https://www.linkedin.com/in/leandroprada/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
                 </div>
@@ -1154,7 +1154,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <h3>STC HR</h3>
+              <h3>Bura HR</h3>
               <div class="textwidget">
                 <p>Si sentis que te podemos
 				ayudar, con nuestra dedicacion
@@ -1162,9 +1162,9 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
 				Contactanos!!!</p>
               </div>
               <ul class="footer-social">
-                <li><a class="facebook" href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="linkedin" href="https://www.linkedin.com/in/infostchr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
-                <li><a class="google-plus" href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                <li><a class="facebook" href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                <li><a class="linkedin" href="https://www.linkedin.com/in/infoBurahr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                <li><a class="google-plus" href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
@@ -1190,7 +1190,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                   </li>
                   <li>
                     <strong>Messenger: </strong> <span><a href="
-https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> STC HR </a></span>
+https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> Bura HR </a></span>
                   </li>
                 </ul>
               </div>
@@ -1199,12 +1199,12 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
               <div class="widget">
                 <h3 class="block-title">Instagram</h3>
                 <ul class="instagram-footer">
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
                 </ul>
               </div>
             </div>
@@ -1288,8 +1288,8 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
     <script src="js/contact-form-script.js"></script>
     <script src="js/main.js"></script>
 
-	<!-- Default Statcounter code for STC
-https://www.stchr.info/ -->
+	<!-- Default Statcounter code for Bura
+https://www.Burahr.info/ -->
 <script type="text/javascript">
 var sc_project=12014019;
 var sc_invisible=1;
@@ -1306,7 +1306,7 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 
-<!-- Código de instalación Cliengo para www.stchr.info --> <script type="text/javascript">(function () { var ldk = document.createElement("script"); ldk.type = "text/javascript"; ldk.async = true; ldk.src = "https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+<!-- Código de instalación Cliengo para www.Burahr.info --> <script type="text/javascript">(function () { var ldk = document.createElement("script"); ldk.type = "text/javascript"; ldk.async = true; ldk.src = "https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ldk, s); })();</script>
 
   </body>
 </html>

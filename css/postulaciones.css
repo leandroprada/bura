@@ -46,13 +46,15 @@ h1, h2, h3, h4, h5 {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
+margin-left:25px;
+padding-top:12.5px;
+list-style: inside;
+padding-inline-start: 12px;
+margin-top: 0px;
+margin-bottom: 0px;
 }
 
-ul li {
-  list-style: none;
-}
+
 
 a:hover,
 a:focus {
@@ -149,15 +151,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
-button.mercadopago-button  {
-  background-color: #d80A22;
-  position: relative;
-  z-index: 1;
-  padding: 20px;
-  margin-bottom: 25px;
-  border-radius: 10px;
-}
-
 .btn-common {
   background-color: #d80A22;
   position: relative;
@@ -166,7 +159,7 @@ button.mercadopago-button  {
   border-radius: 30px;
 }
 
-.btn-common:hover button.mercadopago-button:hover {
+.btn-common:hover {
   color: #fff;
 }
 
@@ -2417,3 +2410,6 @@ footer .menu li a:hover {
   max-width: 100%;
   text-align: center;
 	}
+	
+
+

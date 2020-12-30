@@ -12,7 +12,7 @@
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
-    <title>Bura - Propuesta Comercial</title>
+    <title>STC - Propuesta Comercial</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -40,7 +40,7 @@
     <header id="slider-area">  
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">          
-          <a class="navbar-brand" href="index.php"><img src="img/Bura2.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="img/stc2.png" alt=""></a>
 		        
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>
@@ -78,7 +78,7 @@
             <div class="carousel-item active">
               <img src="img/slider/bg-1.jpg" alt="">
               <div class="carousel-caption text-left">
-                <h3 class="wow fadeInRight" data-wow-delay="0.2s">Bura - SELECTION TRAINING CONSULTING </h3>  
+                <h3 class="wow fadeInRight" data-wow-delay="0.2s">STC - SELECTION TRAINING CONSULTING </h3>  
                 <h2 class="wow fadeInRight" data-wow-delay="0.4s">Recursos Humanos</h2>
                 <h4 class="wow fadeInRight" data-wow-delay="0.6s">Su mejor opci&oacute;n en C&oacute;rdoba</h4>
                 <a href="#contactenos" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">Contacto</a>
@@ -93,7 +93,7 @@
                 <h3 class="wow fadeInDown" data-wow-delay="0.3s">Necesitas:</h3>
                 <h2 class="wow fadeInRight" data-wow-delay="0.6s">B&uacute;squedas y selecci&oacute;n?</h2> 
                 <h4 class="wow fadeInUp" data-wow-delay="0.6s">Podemos ayudarte</h4>
-                <a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank" class="btn btn-lg btn-border wow fadeInUp" data-wow-delay="0.9s">Contactanos</a>
+                <a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank" class="btn btn-lg btn-border wow fadeInUp" data-wow-delay="0.9s">Contactanos</a>
               </div>
             </div>
           </div>
@@ -170,7 +170,7 @@
             <div class="cta-trial text-center">
               <h3>Est&aacute;s listo para comenzar?</h3>
               <p>Trabajemos juntos.<br> Llamanos para entender tus necesidades y ver c&oacute;mo podemos ayudarte</p>
-              <a href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
+              <a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
             </div>
           </div>
         </div>
@@ -205,7 +205,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <h3>Bura HR</h3>
+              <h3>STC HR</h3>
               <div class="textwidget">
                 <p>Si sentis que te podemos 
 				ayudar, con nuestra dedicacion
@@ -213,9 +213,9 @@
 				Contactanos!!!</p>
               </div>
               <ul class="footer-social">
-                <li><a class="facebook" href="https://www.facebook.com/InfoBurahr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="linkedin" href="https://www.linkedin.com/in/infoBurahr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
-                <li><a class="google-plus" href="mailto:infoBurahr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                <li><a class="facebook" href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                <li><a class="linkedin" href="https://www.linkedin.com/in/infostchr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                <li><a class="google-plus" href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta B&uacute;squedas y Selecci&oacute;n de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
               </ul> 
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
@@ -241,7 +241,7 @@
                   </li>
                   <li>
                     <strong>Messenger: </strong> <span><a href="
-https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> Bura HR </a></span>
+https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfvweFwigp3qXwWRouVE" target="_blank"> STC HR </a></span>
                   </li>
                 </ul> 
               </div>
@@ -250,12 +250,12 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
               <div class="widget">
                 <h3 class="block-title">Instagram</h3>
                 <ul class="instagram-footer">
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infoBurahr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
                 </ul>
               </div>
             </div>
@@ -339,7 +339,7 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
     <script src="js/contact-form-script.js"></script>   
     <script src="js/main.js"></script>
     
-	<!-- Código de instalación Cliengo para www.Burahr.info --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+	<!-- Código de instalación Cliengo para www.stchr.info --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
 	
   </body>
 </html>

@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login - STCHR</title>
+	<title>Login - Bura STCHR</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-signin-client_id" content="284081199467-mgtl5u240434m5odbp1n5guaivthgsuq.apps.googleusercontent.com">
@@ -41,7 +41,7 @@
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">
 		<ul>
-          <li><a class="navbar-brand" href="../index.php"><img src="../img/stc2.png" alt="" style="height:1.5em"></a></li>
+          <li><a class="navbar-brand" href="../index.php"><img src="../img/bura.png" alt="" style="height:1.5em"></a></li>
 		</ul>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>

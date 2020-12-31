@@ -17,7 +17,7 @@
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
-    <title>STC - Novedades!</title>
+    <title>Bura STC - Novedades!</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">

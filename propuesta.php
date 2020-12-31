@@ -12,7 +12,7 @@
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
-    <title>STC - Propuesta Comercial</title>
+    <title>Bura STC - Propuesta Comercial</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -40,7 +40,7 @@
     <header id="slider-area">  
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">          
-          <a class="navbar-brand" href="index.php"><img src="img/stc2.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="img/bura.png" alt=""></a>
 		        
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>

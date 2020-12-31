@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
        <meta name="author" content="Grayrids">
-    <title>Postulate! STC - SELECTION TRAINING CONSULTING</title>
+    <title>Postulate! Bura STC SELECTION TRAINING CONSULTING</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap CSS -->

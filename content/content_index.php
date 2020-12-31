@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
        <meta name="author" content="Grayrids">
-    <title>STC - SELECTION TRAINING CONSULTING</title>
+    <title>Bura STC - SELECTION TRAINING CONSULTING</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap CSS -->
@@ -999,7 +999,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
     <!-- Testimonial Section End -->
 
 
-    <!-- Team section Start -->
+     <!-- Team section Start -->
     <section id="team" class="section">
       <div class="container">
         <div class="section-header">
@@ -1033,7 +1033,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
               <div class="team-details">
                 <div class="team-inner">
                   <h4 class="team-title">Octabrina Gonz&aacute;lez</h4>
-                  <p>Community Manager</p>
+                  <p>Instructora RRSS. Community Manager</p>
                   <ul class="social-list">
                     <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                     <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
@@ -1043,8 +1043,8 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                 </div>
               </div>
             </div>
-          </div>
-		  
+          </div>   
+		   
 		  
 		   <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
@@ -1158,6 +1158,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
       </div>
     </section>
     <!-- Team section End -->
+
 
 
 

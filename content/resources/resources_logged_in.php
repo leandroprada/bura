@@ -15,7 +15,7 @@ $courses = $_SESSION['courses'];
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <meta name="keywords" content="Seleccion,Consultoria,Recursos,Humanos,Cordoba">
        <meta name="author" content="Grayrids">
-    <title>STC - Contenido Exclusivo</title>
+    <title>Bura STC - Contenido Exclusivo</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap CSS -->
@@ -210,8 +210,7 @@ $courses = $_SESSION['courses'];
 	}
 ?>    
 		
-	
-    <!-- Team section Start -->
+	  <!-- Team section Start -->
     <section id="team" class="section">
       <div class="container">
         <div class="section-header">
@@ -239,18 +238,91 @@ $courses = $_SESSION['courses'];
             </div>
           </div>
 
-            <div class="col-lg-3 col-md-6 col-xs-12">
+         <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <img src="img/team/team2.png" alt="">
               <div class="team-details">
                 <div class="team-inner">
                   <h4 class="team-title">Octabrina Gonz&aacute;lez</h4>
-                  <p>Community Manager</p>
+                  <p>Instructora RRSS. Community Manager</p>
                   <ul class="social-list">
                     <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                     <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
                     <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
                     <li class="linkedin"><a href="https://www.linkedin.com/in/octabrina-gonzalez-15478b14b/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>   
+		   
+		  
+		   <div class="col-lg-3 col-md-6 col-xs-12">
+            <div class="single-team">
+              <img src="img/team/team6.png" alt="">
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Mauricio S&aacute;nchez</h4>
+                  <p>Instructor/Consultor Selecci&oacute;n IT Avanzado. Full-stack Java Dev</p>
+                  <ul class="social-list">
+                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/in/maurisandev/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		   <div class="col-lg-3 col-md-6 col-xs-12">
+            <div class="single-team">
+              <img src="img/team/team8.png" alt="">
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Mat&iacute;as Gutierrez</h4>
+                  <p>Instructor Desarollo Web Frontend. Full-stack Java Dev</p>
+                  <ul class="social-list">
+                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/in/matias-gutierrez-27822797/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		   <div class="col-lg-3 col-md-6 col-xs-12">
+            <div class="single-team">
+              <img src="img/team/team5.png" alt="">
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Susana Bechara</h4>
+                  <p>Instructora Selección IT. Headhunter</p>
+                  <ul class="social-list">
+                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/in/susanabechara/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                  </ul>
+                </div>
+              </div>               
+            </div>
+          </div>
+		  
+		   <div class="col-lg-3 col-md-6 col-xs-12">
+            <div class="single-team">
+              <img src="img/team/team7.png" alt="">
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Anthony Trillo</h4>
+                  <p>Instructor Selección IT Avanzado. Full-stack PHP Dev</p>
+                  <ul class="social-list">
+                    <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="linkedin"><a href="linkedin.com/in/anthonytrillo/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
                 </div>
               </div>
@@ -300,47 +372,6 @@ $courses = $_SESSION['courses'];
 
 
 
-    <!-- Clients Section -->
-    <div id="clients" class="section">
-      <!-- Container Ends -->
-      <div class="container">
-        <!-- Row and Scroller Wrapper Starts -->
-        <div class="row" id="clients-scroller">
-          <div class="client-item-wrapper">
-            <img src="img/clients/img1.png" alt="">
-          </div>
-		  <div class="client-item-wrapper">
-            <img src="img/clients/img6.png" alt="">
-          </div>
-		    <div class="client-item-wrapper">
-            <img src="img/clients/img11.png" alt="">
-          </div>
-          <div class="client-item-wrapper">
-            <img src="img/clients/img9.png" alt="">
-          </div>
-          <div class="client-item-wrapper">
-            <img src="img/clients/img3.png" alt="">
-          </div>
-          <div class="client-item-wrapper">
-            <img src="img/clients/img4.png" alt="">
-          </div>
-          <div class="client-item-wrapper">
-            <img src="img/clients/img5.png" alt="">
-          </div>
-		  <div class="client-item-wrapper">
-            <img src="img/clients/img2.png" alt="">
-          </div>
-		  <div class="client-item-wrapper">
-            <img src="img/clients/img10.png" alt="">
-          </div>
-		  
-
-        </div>
-      </div>
-    </div>
-    <!-- Client Section End -->
-
-
     <!-- Map Section Start -->
     <section id="google-map-area">
       <div class="container-fluid">
@@ -360,7 +391,7 @@ $courses = $_SESSION['courses'];
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <h3>STC HR</h3>
+              <h3>Bura STC HR</h3>
               <div class="textwidget">
                 <p>Si sentis que te podemos
 				ayudar, con nuestra dedicacion
@@ -377,9 +408,9 @@ $courses = $_SESSION['courses'];
               <div class="widget">
                 <h3 class="block-title">Links</h3>
                 <ul class="menu">
-                  <li><a href="#">Servicios</a></li>
-                  <li><a href="#">Cursos</a></li>
-                  <li><a href="#">El Equipo</a></li>
+                  <li><a href="#services">Servicios</a></li>
+                  <li><a href="#./resources.php">Cursos</a></li>
+                  <li><a href="#team">El Equipo</a></li>
 
                 </ul>
               </div>

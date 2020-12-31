@@ -115,7 +115,7 @@
             <div class="carousel-item active">
               <img src="img/slider/bg-1.jpg" alt="">
               <div class="carousel-caption text-left">
-                <h3 class="wow fadeInRight" data-wow-delay="0.2s">STC - SELECTION TRAINING CONSULTING </h3>
+                <h3 class="wow fadeInRight" data-wow-delay="0.2s">BURA STC | SELECTION TRAINING CONSULTING </h3>
                 <h2 class="wow fadeInRight" data-wow-delay="0.4s">Recursos Humanos</h2>
                 <h4 class="wow fadeInRight" data-wow-delay="0.6s">Su mejor opción en Córdoba</h4>
                 <a href="#contactenos" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">Contacto</a>
@@ -801,7 +801,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
                     </div>
                   </div>
                   <div class="content-inner">
-                    <p class="description">Recomiendo a STCHR porque sus miembros son profesionales de RR. HH. cuyo valor agregado est&aacute; en el trato hacia las personas. Como docentes han sido incre&iacute;bles. Gracias chicas! </p>
+                    <p class="description">Recomiendo a BURA STCHR porque sus miembros son profesionales de RR. HH. cuyo valor agregado est&aacute; en el trato hacia las personas. Como docentes han sido incre&iacute;bles. Gracias chicas! </p>
                     <span><i class="lni-star-filled"></i></span>
                     <span><i class="lni-star-filled"></i></span>
                     <span><i class="lni-star-filled"></i></span>

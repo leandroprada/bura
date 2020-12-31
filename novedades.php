@@ -653,7 +653,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <h3>STC HR</h3>
+              <h3>BURA STC HR</h3>
               <div class="textwidget">
                 <p>Si sentis que te podemos
 				ayudar, con nuestra dedicacion

@@ -44,7 +44,7 @@ $courses = $_SESSION['courses'];
     <header id="slider-area">
       <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><img src="img/stc2.png" alt=""></a>
+          <a class="navbar-brand" href="index.php"><img src="img/bura.png" alt=""></a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>

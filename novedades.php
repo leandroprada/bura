@@ -1,6 +1,6 @@
 <?php
  session_start();
- require "pagos.php";
+ require "./pagos.php";
  
  ?>
 

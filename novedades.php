@@ -138,6 +138,24 @@
               </div>
             </div>
           </div> -->
+		  <div class="col-lg-4 col-md-6 col-xs-12 mix design">
+            <div class="portfolio-item">
+              <div class="shot-item">
+                <img src="img/novedades/webDevFEVer2021.jpg" alt="" />
+                <div class="single-content">
+                  <div class="fancy-table">
+                    <div class="table-cell">
+                      <div class="zoom-icon">
+                        <a class="lightbox" href="img/novedades/webDevFEVer2021.jpg"><i class="lni-zoom-in item-icon"></i></a>
+                      </div>
+                      <a href="#">Ver Curso</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
 		  <div class="col-lg-4 col-md-6 col-xs-12 mix development">
             <div class="portfolio-item">
               <div class="shot-item">

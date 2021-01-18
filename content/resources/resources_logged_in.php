@@ -201,6 +201,9 @@ $courses = $_SESSION['courses'];
 				else if ($coursename == "itbasicodic20"){
 					include "resources_itbasicodic20.php";
 				}
+				else if ($coursename == "itbasicoene21"){
+					include "resources_itbasicoene21.php";
+				}
 			
 		}	
 				

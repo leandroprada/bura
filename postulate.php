@@ -316,7 +316,7 @@
 						
 				   </div>							
 				</div>
-			</div>			
+				
 				
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="FT2004" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
@@ -363,7 +363,7 @@
 						
 				   </div>							
 				</div>
-			</div>
+			
 
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="FT2005" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
@@ -410,7 +410,7 @@
 						
 				   </div>							
 				</div>
-			</div>		
+		
 					
 
 

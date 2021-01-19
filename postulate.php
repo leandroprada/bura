@@ -268,7 +268,9 @@
 					</ul>
 				 </div>
 
-				
+		 </div>
+		
+		<div class="row ">
 				
 				
 			<div class="col-lg-12 col-md-12 col-xs-12">
@@ -470,9 +472,7 @@
 					
 			   </div>							
 			</div>
-		</div>		
 		
-		<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="QU1001" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -548,16 +548,8 @@
 
 			   </div>							
 			</div>
-		</div>	
 		
-		
-		
-		
-		
-		
-		
-		<div class="row ">
-			 <div class="col-lg-12 col-md-12 col-xs-12">
+			<div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="FT2002" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
 					<i class="lni-search"></i>
@@ -605,10 +597,7 @@
 					
 			   </div>							
 			</div>
-		</div>		
 		
-		
-		<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1001" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -659,9 +648,7 @@
 					
 			   </div>							
 			</div>
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1002" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -722,9 +709,7 @@
 			   </div>							
 			</div>
 			 
-		</div>	 
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1003" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -791,9 +776,7 @@
 			</div>
 			 
 			 
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1004" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -849,9 +832,7 @@
 
 			   </div>							
 			</div>			 
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1005" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -914,9 +895,7 @@
 					
 			   </div>							
 			</div>
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1006" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -975,9 +954,7 @@
 					
 			   </div>							
 			</div>
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1007" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -1035,9 +1012,7 @@
 					
 			   </div>							
 			</div>
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1008" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -1090,9 +1065,7 @@
 					
 			   </div>							
 			</div>			
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1009" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -1148,9 +1121,7 @@
 					
 			   </div>							
 			</div>	
-		</div>	
 		
-				<div class="row ">
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1010" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -1201,7 +1172,7 @@
 			</div>		
 
 			
-		<div class="row ">
+		
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="MM1011" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">
@@ -1254,8 +1225,8 @@
 
 
 
-
-
+		</div>		
+		
 
 
 

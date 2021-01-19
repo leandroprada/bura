@@ -105,6 +105,8 @@
 		   
 		<div class="row ">
 		
+				
+		
 			     <div class="col-lg-12 col-md-12 col-xs-12">
 					<ul class="article-list-vertical">
 
@@ -121,8 +123,35 @@
 							<a href="#FT2002" style="background-image: url('img/postulate/dev2.png')"></a>
 							<div>
 								<h2><a href="#FT2002">Desarrollador Front End Ssr (FT2002)</a></h2>
-								<p>Exp +4 a&ntilde;os. Angular. Unit Testing. SQL. Relaci&oacute;n de Dependencia o Freelance. OSDE grupo familiar.</p>
+								<p>Exp +4 a&ntilde;os. React. Angular. Unit Testing. SQL. Relaci&oacute;n de Dependencia o Freelance. OSDE grupo familiar.</p>
 								<a href="#FT2002" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li>
+							<a href="#FT2003" style="background-image: url('img/postulate/dev1.png')"></a>
+							<div>
+								<h2><a href="#FT2003">Desarrollador Java Sr (FT2003)</a></h2>
+								<p>Java 6. Java 8. JSF. Spring. Maven. Hibernate. Relaci&oacute;n de Dependencia o Freelance. OSDE grupo familiar.</p>
+								<a href="#FT2003" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li>
+							<a href="#FT2004" style="background-image: url('img/postulate/dev2.png')"></a>
+							<div>
+								<h2><a href="#FT2004">Desarrollador iOS Sr (FT2004)</a></h2>
+								<p>Swift. MVVM. POO. SCRUM. Relaci&oacute;n de Dependencia o Freelance. OSDE grupo familiar.</p>
+								<a href="#FT2004" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li>
+							<a href="#FT2005" style="background-image: url('img/postulate/dev1.png')"></a>
+							<div>
+								<h2><a href="#FT2005">Desarrollador Android Sr (FT2005)</a></h2>
+								<p>Kotlin. MVP. POO. SCRUM. Relaci&oacute;n de Dependencia o Freelance. OSDE grupo familiar.</p>
+								<a href="#FT2005" class="read-more">M&aacute;s info &rarr;</a>
 							</div>
 						</li>
 						
@@ -240,6 +269,106 @@
 				 </div>
 
 				
+				
+				
+			<div class="col-lg-12 col-md-12 col-xs-12">
+					<div id="FT2003" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
+					  <div class="icon color-1">
+						<i class="lni-search"></i>
+					  </div>
+					  <h3>Desarrollador Java Sr (FT2003)</h3>
+						<div class="text-center">
+							<a href="https://forms.gle/nvQ6EVctVGeHz5jC6" target="_blank" class="btn btn-common btn-effect">Postulate!</a>
+						</div>
+					</div>
+				 </div>
+				
+				<div class="col-lg-12 col-md-12 col-xs-12">
+					<div class="justify-content-left">
+							<h6>Descripci&oacute;n del empleo:</h6>
+							<p class="section-subtitle">Estamos buscando los mejores Talentos IT para una importante compa&ntilde;&iacute;a especializada en la provisi&oacute;n de servicios de consultor&iacute;a en management y tecnolog&iacute;as de la informaci&oacute;n, con fuerte especializaci&oacute;n en la provisi&oacute;n de recursos humanos y caracterizada por las sobresalientes aptitudes y actitudes del equipo.</br>
+							Que desarrolla actividades en Argentina, Brasil, Chile, Uruguay y Am&eacute;rica Central y  brinda servicios de consultor&iacute;a en la &aacute;reas de: e-business, ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), Call Center, BI (Business Intelligence) y SCM (Supply Chain Management).
+							Adem&aacute;s provee diversos servicios en: Gesti&oacute;n de Proyectos, Consultor&iacute;a de Apoyo, Desarrollo de Software, Staffing de Recursos, B&uacute;squeda de Personal Especializado, Quality Assurance, Training, Administraci&oacute;n, etc. </br>
+							Cuenta con una enorme experiencia en consultor&iacute;a de negocios y tecnolog&iacute;a, adquirida durante m&aacute;s de 15 a&ntilde;os en m&aacute;s de 200 proyectos en compa&ntilde;&iacute;as de diferentes tama&ntilde;os y sectores de industria en Am&eacute;rica Latina y Europa.</p>
+
+						<ul><h6> Experiencia laboral (excluyentes):</h6>
+						<li>Java 6</li>
+						<li>JSF</li>
+						<li>Spring</li>
+						<li>Maven</li>
+						<li>Hibernate</li>
+						</ul>
+						<ul><h6>Conocimientos Deseables (NO excluyentes):</h6>
+						<li>Java 8</li>
+						</ul> 
+				
+						
+						<ul><h6>Proyecto: Nuevo</h6>
+						<li>Rubro: Banco</li>
+						<li>&Aacute;rea de trabajo: Desarrollo</li>
+						<li>Relaci&oacute;n Laboral: Relaci&oacute de dependencia o freelance (opcional)</li>
+						<li>Capacitaciones Pagas</li>
+						<li>Prepaga Osde Grupo Familiar</li>
+						
+						</ul> 
+						
+
+						
+				   </div>							
+				</div>
+			</div>			
+				
+			 <div class="col-lg-12 col-md-12 col-xs-12">
+				<div id="FT2004" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
+				  <div class="icon color-1">
+					<i class="lni-search"></i>
+				  </div>
+				  <h3>Desarrollador iOS Sr (FT2004)</h3>
+					<div class="text-center">
+						<a href="https://forms.gle/nvQ6EVctVGeHz5jC6" target="_blank" class="btn btn-common btn-effect">Postulate!</a>
+					</div>
+				</div>
+			 </div>
+			
+			<div class="col-lg-12 col-md-12 col-xs-12">
+				<div class="justify-content-left">
+						<h6>Descripci&oacute;n del empleo:</h6>
+						<p class="section-subtitle">Estamos buscando los mejores Talentos IT para una importante compa&ntilde;&iacute;a especializada en la provisi&oacute;n de servicios de consultor&iacute;a en management y tecnolog&iacute;as de la informaci&oacute;n, con fuerte especializaci&oacute;n en la provisi&oacute;n de recursos humanos y caracterizada por las sobresalientes aptitudes y actitudes del equipo.</br>
+						Que desarrolla actividades en Argentina, Brasil, Chile, Uruguay y Am&eacute;rica Central y  brinda servicios de consultor&iacute;a en la &aacute;reas de: e-business, ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), Call Center, BI (Business Intelligence) y SCM (Supply Chain Management).
+						Adem&aacute;s provee diversos servicios en: Gesti&oacute;n de Proyectos, Consultor&iacute;a de Apoyo, Desarrollo de Software, Staffing de Recursos, B&uacute;squeda de Personal Especializado, Quality Assurance, Training, Administraci&oacute;n, etc. </br>
+						Cuenta con una enorme experiencia en consultor&iacute;a de negocios y tecnolog&iacute;a, adquirida durante m&aacute;s de 15 a&ntilde;os en m&aacute;s de 200 proyectos en compa&ntilde;&iacute;as de diferentes tama&ntilde;os y sectores de industria en Am&eacute;rica Latina y Europa.</p>
+
+					<ul><h6> Experiencia laboral (excluyentes):</h6>
+					<li>iOS</li>
+					<li>Swift</li>
+					<li>MVVM</li>
+					<li>POO</li>
+					<li>Scrum</li>
+					</ul>
+					<ul><h6>Conocimientos Adicionales (NO excluyentes):</h6>
+					<li>Java 6 / Java 8 para backend del mobile banking.</li>
+					</ul> 
+			
+					
+					<ul><h6>Proyecto: Nuevo</h6>
+					<li>Rubro: Banco</li>
+					<li>&Aacute;rea de trabajo: Desarrollo</li>
+					<li>Relaci&oacute;n Laboral: Relaci&oacute de dependencia o freelance (opcional)</li>
+					<li>Capacitaciones Pagas</li>
+					<li>Prepaga Osde Grupo Familiar</li>
+					
+					</ul> 
+					
+
+						
+				   </div>							
+				</div>
+			</div>				
+				
+
+
+
+			
 		
 			 <div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="FT2001" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
@@ -405,6 +534,7 @@
  
 
 					<ul><h6>Conocimientos espec&iacute;ficos:</h6>
+					<li>React</li>
 					<li>Angular</li>
 					
 					</ul>

@@ -16,9 +16,9 @@
 							<iframe width="560" height="315" src="https://www.youtube.com/embed/6cuxqIbIdf4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</li>
-					<li style="text-decoration:none;padding-bottom:10px; "> <h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Curso Selecci&oacute;n IT M&oacute;dulo 1 Clase 2 <a  href="#submenubasicoene212" data-toggle="collapse" aria-expanded="false" class="btn btn-info btn-lg"  style="color:white;">Ver </a></h2>							
+					<li style="text-decoration:none;padding-bottom:10px; "> <h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Curso Selecci&oacute;n IT M&oacute;dulo 1 Clase 2 23-Ene-2021 <a  href="#submenubasicoene212" data-toggle="collapse" aria-expanded="false" class="btn btn-info btn-lg"  style="color:white;">Ver </a></h2>							
 						<div class="collapse list-unstyled" id="submenubasicoene212">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/gNay8n9Xhnc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/pJ_aoAjuTJ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</li>
 					<li style="text-decoration:none;padding-bottom:10px; "><h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Curso Selecci&oacute;n IT M&oacute;dulo 1 Clase  <a  href="#submenubasicoene213" data-toggle="collapse" aria-expanded="false" class="btn btn-info btn-lg"  style="color:white;">Ver </a> </h2>

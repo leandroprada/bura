@@ -204,7 +204,14 @@ $courses = $_SESSION['courses'];
 				else if ($coursename == "itbasicoene21"){
 					include "resources_itbasicoene21.php";
 				}
-			
+				
+				else if ($coursename == "itbasicofeb21"){
+					include "resources_itbasicofeb21.php";
+				}
+				
+				else if ($coursename == "itavanzadofeb21"){
+					include "resources_itavanzadofeb21.php";
+				}
 		}	
 				
 		else{ header("Location: ../../login/login.php?usergroup=unauthorized");

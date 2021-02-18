@@ -165,6 +165,33 @@
 						</li>
 						
 						<li >
+							<a href="#QU1002" style="background-image: url('img/postulate/dev2.png')"></a>
+							<div>
+								<h2><a href="#QU1002">Desarrollador Java  Semi Sr / Sr (QU1002)</a></h2>
+								<p>3+ A&ntilde;os de Exp. (SSR). Bases de datos. Control de versiones. Arquitectura de Microservicios. Ingl&eacute;s Intermedio. Prepaga Osde. D&iacute;a de cumplea&ntilde;os libre. 100% Home Office (opcional).</p>
+								<a href="#QU1002" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li >
+							<a href="#QU1003" style="background-image: url('img/postulate/dev1.png')"></a>
+							<div>
+								<h2><a href="#QU1003">Desarrollador Java  Jr Advanced / Semi Sr (QU1003)</a></h2>
+								<p>2+ A&ntilde;os de Exp. (SSR). Bases de datos. Control de versiones.  Arquitectura de Microservicios. Ingl&eacute;s Intermedio/Avanzado. Prepaga Osde. D&iacute;a de cumplea&ntilde;os libre. 100% Home Office (opcional).</p>
+								<a href="#QU1003" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li >
+							<a href="#QU1004" style="background-image: url('img/postulate/dev2.png')"></a>
+							<div>
+								<h2><a href="#QU1004">Desarrollador PHP Semi Sr (QU1004)</a></h2>
+								<p>2+ A&ntilde;os de Exp. (SSR). PHP.  Laravel. Vue.js. JS/CSS/HTML. LAMP. GiT. Prepaga Osde. D&iacute;a de cumplea&ntilde;os libre. Freelance (min. 4hs).</p>
+								<a href="#QU1004" class="read-more">M&aacute;s info &rarr;</a>
+							</div>
+						</li>
+						
+						<li >
 							<a href="#MM1001" style="background-image: url('img/postulate/dev1.png')"></a>
 							<div>
 								<h2><a href="#MM1001">Tech Lead Frontend Developer (MM1001)</a></h2>
@@ -491,8 +518,6 @@
 						<h6>Descripci&oacute;n del empleo:</h6>
 						<p class="section-subtitle">Experiencia de 2 o 3 a&ntilde;os en puestos similares (Semi Sr). En sistemas de base de datos. Trabajo con Sistemas de control de versiones.</p>
 
- 
-
 					<ul><h6>Actitudes y/o aptitudes </h6>
 					<li>An&aacute;lisis y resoluci&oacute;n de problemas</li>
 					<li>Orientaci&oacute;n hacia los resultados y el cliente</li>
@@ -501,7 +526,8 @@
 					<li>Conocimientos de los requerimientos internos de la Norma ISO 9001:2015</li>
 					<li>Excelente resoluci&oacute;n de problemas y habilidades anal&iacute;ticas</li>
 					<li>Autogesti&oacute;n e independencia</li>
-					</ul>
+					</ul>					
+					
 					<ul><h6>Conocimientos Excluyentes:</h6>
 					<li>Conocimiento y experiencia en el uso de tecnolog&iacute;as de Microsoft y desarrollo de aplicaciones web.</li>
 					<li>MVC 4.5</li>
@@ -548,7 +574,266 @@
 
 			   </div>							
 			</div>
-		
+	
+				 <div class="col-lg-12 col-md-12 col-xs-12">
+				<div id="QU1002" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
+				  <div class="icon color-1">
+					<i class="lni-search"></i>
+				  </div>
+				  <h3>Desarrollador Java Semi Sr / Sr (QU1002)</h3>
+				  <h4>+3 a&ntilde;os de experiencia</h4>
+					<div class="text-center">
+						<a href="https://forms.gle/nvQ6EVctVGeHz5jC6" target="_blank" class="btn btn-common btn-effect">Postulate!</a>
+					</div>
+				</div>
+			 </div>
+			
+			<div class="col-lg-12 col-md-12 col-xs-12">
+				<div class="justify-content-left">
+						<h6>Descripci&oacute;n del empleo:</h6>					
+					<p class="section-subtitle">Experiencia de m&aacute;s de 3 a&ntilde;os en puestos similares (Semi Sr). En sistemas de base de datos. Trabajo con Sistemas de control de versiones.</p>
+
+					<ul><h6>Actitudes y/o aptitudes </h6>
+					<li>An&aacute;lisis y resoluci&oacute;n de problemas</li>
+					<li>Orientaci&oacute;n hacia los resultados y el cliente</li>
+					<li>Gesti&oacute;n del tiempo</li>
+					<li>Organizaci&oacute;n de su trabajo</li>
+					<li>Conocimientos de los requerimientos internos de la Norma ISO 9001:2015</li>
+					<li>Proactivos / Autogesti&oacute;n - Muy importante</li>
+					<li>Responsables</li>
+					<li>Predisposici&oacute;n a aprender nuevas tecnolog&iacute;as</li>
+					</ul>
+					
+					<ul><h6>Experiencia: </h6>
+					<li> En sistemas de base de datos</li>
+					<li>Trabajo con Sistemas de control de versiones (excluyente)</li>
+					<li>Experiencia en Arquitectura de microservicios (deseable).</li>
+					</ul>
+					
+					
+					
+					<ul><h6>Habilidades y herramientas Requeridos:</h6>
+					<li>Java 7 o versi&oacute;n 8 o versi&oacute;n 11</li>
+					<li>Bases de datos - postgresql</li>
+					<li>Rest services - Aplicaciones que brinden servicios web y consuman (clientes) / Spring Rest</li>
+					<li>Spring framework -Ideal Version 5 (excluyente)</li>
+					<li>Spring boot (deseable)</li>
+					<li>JPA / Hibernate</li>
+					<li>Maven</li>
+					<li>Git (Excluyente)</li>
+					<li>MVC</li>
+					<li>Arquitectura de microservicios (plus)</li>
+					<li>Docker (plus) / Docker compose</li>
+					<li>Jenkins (excluyente SSR)</li>
+					<li>Linux</li>
+					<li>Unit tests - JUnit - (excluyente)</li>
+					<li>Integration test (deseable)</li>
+					<li>Desarrollo de aplicaciones de tipo Batch (Spring batch). (Deseable).</li>
+					</ul> 
+					
+					<ul><h6>Conocimientos deseables: </h6>
+					<li>Data science (modelado ETL)</li>
+					<li>Business Intelligence</li>
+					<li>Big Data</li>
+					
+					</ul>
+					
+					
+					<ul><h6>Beneficios</h6>
+					<li>Vacaciones: Antigüedad de 2 a&ntilde;os - 1 semana adicional de vacaciones.</li>
+					<li>Cumplea&ntilde;os: D&iacute;a libre de cumplea&ntilde;os.</li>
+					<li>D&iacute;as extras: Los feriados que caen los fines de semana, se pueden tomar en otra fecha. Estos d&iacute;as pueden ser elegidos.</li>
+					<li>Modalidad de trabajo: 100% Home Office (opcional).</li>
+					<li>Clases de ingl&eacute;s dos veces por semana en horarios de oficina. Presenciales en la oficina, con una profesora de ingl&eacute;s o la opci&oacute;n de sumarse a las clase online (por la situaci&oacute;n actual de la pandemia).</li>
+					<li>Obra social : OSDE</li>
+					<li>Beneficios extras por empresa:
+					<ul>
+					<li>&Oacute;PTICA
+					<li>MEDICAMENTOS: 
+					<li>COSEGURO DE URG: 
+					<li>GYM
+					</ul>
+					</li>
+					<li>Herramientas de trabajo: computadora, auriculares, mouse y mochila!</li>
+					<li>Viandas a domicilio.</li>
+					</ul> 
+					
+					<ul><h6>Proyecto: Nuevo - Desarrollo de cero</h6>
+					<li>Lugar de trabajo: C&oacute;rdoba / Remoto</li>
+					<li>Relaci&oacute;n Laboral: Relaci&oacute de dependencia</li>
+					<li>Tiempo de trabajo: Full Time</li>
+					</ul> 
+
+			   </div>							
+			</div>
+			
+			
+			
+				<div class="col-lg-12 col-md-12 col-xs-12">
+				<div id="QU1003" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
+				  <div class="icon color-1">
+					<i class="lni-search"></i>
+				  </div>
+				  <h3>Desarrollador Java  Jr Advanced / Semi Sr (QU1003)</h3>
+				  <h4>+2 a&ntilde;os de experiencia</h4>
+					<div class="text-center">
+						<a href="https://forms.gle/nvQ6EVctVGeHz5jC6" target="_blank" class="btn btn-common btn-effect">Postulate!</a>
+					</div>
+				</div>
+			 </div>
+			
+			<div class="col-lg-12 col-md-12 col-xs-12">
+				<div class="justify-content-left">
+						<h6>Descripci&oacute;n del empleo:</h6>					
+					<p class="section-subtitle">Experiencia de m&aacute;s de 2 a&ntilde;os en puestos similares (Semi Sr). En sistemas de base de datos. Trabajo con Sistemas de control de versiones.</p>
+
+					<ul><h6>Actitudes y/o aptitudes </h6>
+					<li>An&aacute;lisis y resoluci&oacute;n de problemas</li>
+					<li>Orientaci&oacute;n hacia los resultados y el cliente</li>
+					<li>Gesti&oacute;n del tiempo</li>
+					<li>Organizaci&oacute;n de su trabajo</li>
+					<li>Conocimientos de los requerimientos internos de la Norma ISO 9001:2015</li>
+					<li>Proactivos / Autogesti&oacute;n - Muy importante</li>
+					<li>Responsables</li>
+					<li>Predisposici&oacute;n a aprender nuevas tecnolog&iacute;as</li>
+					</ul>
+					
+					<ul><h6>Experiencia: </h6>
+					<li> En sistemas de base de datos</li>
+					<li>Trabajo con Sistemas de control de versiones (excluyente)</li>
+					<li>Experiencia en Arquitectura de microservicios (deseable).</li>
+					</ul>
+					
+					
+					
+					<ul><h6>Habilidades y herramientas Requeridos:</h6>
+					<li>Java 7 o versi&oacute;n 8 o versi&oacute;n 11</li>
+					<li>Bases de datos - postgresql</li>
+					<li>Rest services - Aplicaciones que brinden servicios web y consuman (clientes) / Spring Rest</li>
+					<li>Spring framework -Ideal Version 5 (excluyente)</li>
+					<li>Spring boot (deseable)</li>
+					<li>JPA / Hibernate</li>
+					<li>Maven</li>
+					<li>Git (Excluyente)</li>
+					<li>MVC</li>
+					<li>Arquitectura de microservicios (plus)</li>
+					<li>Docker (plus) / Docker compose</li>
+					<li>Jenkins (excluyente SSR)</li>
+					<li>Linux</li>
+					<li>Unit tests - JUnit - (excluyente)</li>
+					<li>Integration test (deseable)</li>
+					<li>Desarrollo de aplicaciones de tipo Batch (Spring batch). (Deseable).</li>
+					</ul> 
+					
+					<ul><h6>Conocimientos deseables: </h6>
+					<li>VUE.js</li>
+					</ul>
+					
+					
+					<ul><h6>Beneficios</h6>
+					<li>Vacaciones: Antigüedad de 2 a&ntilde;os - 1 semana adicional de vacaciones.</li>
+					<li>Cumplea&ntilde;os: D&iacute;a libre de cumplea&ntilde;os.</li>
+					<li>D&iacute;as extras: Los feriados que caen los fines de semana, se pueden tomar en otra fecha. Estos d&iacute;as pueden ser elegidos.</li>
+					<li>Modalidad de trabajo: 100% Home Office (opcional).</li>
+					<li>Clases de ingl&eacute;s dos veces por semana en horarios de oficina. Presenciales en la oficina, con una profesora de ingl&eacute;s o la opci&oacute;n de sumarse a las clase online (por la situaci&oacute;n actual de la pandemia).</li>
+					<li>Obra social : OSDE</li>
+					<li>Beneficios extras por empresa:
+					<ul>
+					<li>&Oacute;PTICA
+					<li>MEDICAMENTOS: 
+					<li>COSEGURO DE URG: 
+					<li>GYM
+					</ul>
+					</li>
+					<li>Herramientas de trabajo: computadora, auriculares, mouse y mochila!</li>
+					<li>Viandas a domicilio.</li>
+					</ul> 
+					
+					<ul><h6>Proyecto: Nuevo - Desarrollo de cero</h6>
+					<li>Lugar de trabajo: C&oacute;rdoba / Remoto</li>
+					<li>Relaci&oacute;n Laboral: Relaci&oacute de dependencia</li>
+					<li>Tiempo de trabajo: Full Time</li>
+					</ul> 
+
+			   </div>							
+			</div>
+			
+			<div class="col-lg-12 col-md-12 col-xs-12">
+				<div id="QU1004" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
+				  <div class="icon color-1">
+					<i class="lni-search"></i>
+				  </div>
+				  <h3>Desarrollador PHP Semi Sr (QU1004)</h3>
+				  <h4>+2 a&ntilde;os de experiencia</h4>
+					<div class="text-center">
+						<a href="https://forms.gle/nvQ6EVctVGeHz5jC6" target="_blank" class="btn btn-common btn-effect">Postulate!</a>
+					</div>
+				</div>
+			 </div>
+			
+			<div class="col-lg-12 col-md-12 col-xs-12">
+				<div class="justify-content-left">
+						<h6>Descripci&oacute;n del empleo:</h6>					
+					<p class="section-subtitle">Experiencia de m&aacute;s de 2 a&ntilde;os en puestos similares (Semi Sr). Desarrollo y mantenimiento de aplicaciones web con php, vue.js</p>
+
+
+
+
+Tipo de trabajo: Freelance-mínimo 4 hs 
+Lugar de trabajo: Córdoba-Remoto
+
+					<ul><h6>Actitudes y/o aptitudes </h6>
+					<li>An&aacute;lisis y resoluci&oacute;n de problemas</li>
+					<li>Orientaci&oacute;n hacia los resultados y el cliente</li>
+					<li>Gesti&oacute;n del tiempo</li>
+					<li>Organizaci&oacute;n de su trabajo</li>
+					<li>Conocimientos de los requerimientos internos de la Norma ISO 9001:2015</li>
+					<li>Proactivos / Autogesti&oacute;n - Muy importante</li>
+					<li>Responsables</li>
+					<li>Predisposici&oacute;n a aprender nuevas tecnolog&iacute;as</li>
+					</ul>
+					
+					<ul><h6>Responsabilidades: </h6>
+					<li>Desarrollo y mantenimiento de sistema de seguros.</li>
+					<li>Trabajar conjuntamente con el Manager de Producto para nuevo sistema.</li>
+					</ul>
+					
+					<ul><h6>Experiencia: </h6>
+					<li>Desarrollo y mantenimiento de aplicaciones web con php, vue.js (excluyente)</li>
+					<li>Trabajo con Sistemas de control de versiones (excluyente)</li>
+					</ul>
+					
+					
+					
+					<ul><h6>Habilidades y herramientas Requeridos:</h6>
+					<li>PHP (excluyente)</li>
+					<li>Experiencia en Laravel (excluyente)</li>
+					<li>Vue.js (Excluyente)</li>
+					<li>Javascript, css3, jquery, HTML5 (excluyente)</li>
+					<li>MySQL queries y stored procedures. LAMP</li>
+					<li>Git (excluyente)</li>
+					<li>Linux</li>
+					<li>Unit testing - PHPUnit</li>
+					<li>Dependency injection</li>
+					<li>Templating</li>
+					<li>Yii framework</li>
+					<li>Google Polymer</li>
+					<li>Node.js</li>
+					<li>Webservice REST</li>
+					</ul> 
+					
+					
+					<ul><h6>Proyecto:</h6>
+					<li>Remoto</li>
+					<li>Tipo de trabajo: Freelance</li>
+					<li>Tiempo de trabajo: M&iacute;nimo 4hs</li>
+					</ul> 
+
+			   </div>							
+			</div>
+			
+
+	
 			<div class="col-lg-12 col-md-12 col-xs-12">
 				<div id="FT2002" class="item-boxes services-item wow fadeInDown " data-wow-delay="0.2s">
 				  <div class="icon color-1">

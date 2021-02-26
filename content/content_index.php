@@ -1032,13 +1032,13 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
               <img src="img/team/team2.png" alt="">
               <div class="team-details">
                 <div class="team-inner">
-                  <h4 class="team-title">Octabrina Gonz&aacute;lez</h4>
-                  <p>Instructora RRSS. Community Manager</p>
+                  <h4 class="team-title">Myriam Yamila Arru</h4>
+                  <p>Community Manager</p>
                   <ul class="social-list">
                     <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                     <li class="twitter"><a href="https://twitter.com/infostchr"><i class="lni-twitter-filled"></i></a></li>
                     <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
-                    <li class="linkedin"><a href="https://www.linkedin.com/in/octabrina-gonzalez-15478b14b/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/in/myriam-yamila-arru-768789193/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
                   </ul>
                 </div>
               </div>

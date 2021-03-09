@@ -1143,7 +1143,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
               <div class="team-details">
                 <div class="team-inner">
                   <h4 class="team-title">Marisel Villarruel</h4>
-                  <p>Dise&ntilde;,adora Gr&aacute;fica</p>
+                  <p>Dise&ntilde;adora Gr&aacute;fica</p>
                   <ul class="social-list">
                  <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                     <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>

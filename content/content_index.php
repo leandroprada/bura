@@ -1136,7 +1136,26 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
             </div>
           </div>
 
-		          <div class="col-lg-3 col-md-6 col-xs-12">
+
+		<div class="col-lg-3 col-md-6 col-xs-12">
+            <div class="single-team">
+              <img src="img/team/team9.png" alt="">
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Marisel Villarruel</h4>
+                  <p>Dise&ntilde;,adora Gr&aacute;fica</p>
+                  <ul class="social-list">
+                 <li class="facebook"><a href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
+                    <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/in/marisel-villarruel-236a81135/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		 <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <img src="img/team/team4.png" alt="">
               <div class="team-details">

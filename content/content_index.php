@@ -1155,23 +1155,7 @@ Adem&aacute;s con nuestro cursos de capacitaci&oacute;n te compartimos nuestra e
             </div>
           </div>
 		  
-		 <div class="col-lg-3 col-md-6 col-xs-12">
-            <div class="single-team">
-              <img src="img/team/team4.png" alt="">
-              <div class="team-details">
-                <div class="team-inner">
-                  <h4 class="team-title">Leo Prada</h4>
-                  <p>IT</p>
-                  <ul class="social-list">
-                    <li class="facebook"><a href="https://www.facebook.com/leandroprada" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                    <li class="twitter"><a href="https://twitter.com/infostchr" target="_blank"><i class="lni-twitter-filled"></i></a></li>
-                     <li class="google-plus"><a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y Selección de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
-                    <li class="linkedin"><a href="https://www.linkedin.com/in/leandroprada/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
+
 
         </div>
       </div>
@@ -1334,16 +1318,8 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
               <div class="site-info float-left">
                 <p>Crafted by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
               </div>
-              <div class="float-right">
-                <ul class="nav nav-inline">
-                  <li class="nav-item">
-                    <a class="nav-link active" href="https://www.leandroprada.website" target="_blank">Modified by Leo Prada</a>
-                  </li>
-                                   <li class="nav-item">
-                    <a class="nav-link" href="mailto:leandroprada@gmail.com" target="_blank">Contacto</a>
-                  </li>
-                </ul>
-              </div>
+ 
+ 
             </div>
           </div>
         </div>

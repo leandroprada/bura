@@ -87,16 +87,7 @@
               <div class="site-info float-left">
                 <p>Crafted by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
               </div>
-              <div class="float-right">
-                <ul class="nav nav-inline">
-                  <li class="nav-item">
-                    <a class="nav-link active" href="https://www.leoprada.com.ar" target="_blank">Modified by Leo Prada</a>
-                  </li>
-                                   <li class="nav-item">
-                    <a class="nav-link" href="mailto:leandroprada@gmail.com" target="_blank">Contacto</a>
-                  </li>
-                </ul>
-              </div>
+ 
             </div>
           </div>
         </div>

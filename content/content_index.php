@@ -79,23 +79,7 @@
               </li>
 			
 			
-			<?php
- 
-			 if ($_SESSION['login'] == "validated") {
-				echo '<li class="nav-item">
-					   <a class="nav-link page-scroll" href="./resources.php">Contenido Exclusivo</a>
-					  </li>
-					  <li class="nav-item">
-						<a class="nav-link page-scroll" href="./login/logout.php">Logout</a>
-					  </li>';
-				}
-			else {
-				echo '<li class="nav-item">
-						<a class="nav-link page-scroll" href="./login/login.php">Login</a>
-					  </li>';
-				}
-			  
-			 ?>
+		
 			</ul>
 		  </div>
         </div>
@@ -1282,12 +1266,12 @@ https://m.me/675557912900923?fbclid=IwAR3K4zKfHN9gEyLQQM1LJmiYmoS3tJinl8l6jKUYfv
               <div class="widget">
                 <h3 class="block-title">Instagram</h3>
                 <ul class="instagram-footer">
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
                 </ul>
               </div>
             </div>

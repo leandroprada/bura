@@ -1,6 +1,6 @@
 <?php
  session_start();
- require "./pagos.php";
+ 
  
  ?>
 
@@ -747,87 +747,10 @@
     </section>
     <!-- Portfolio Section Ends -->
 	
-	<div class="container">
-      <div id="workshop"  class="section-header" style="padding-top:100px;">
-         <h2 class="section-title">Aqu&iacute; podr&aacute;s pagar tu curso</h2>
-         <span style="padding-top:100px;">Pagos</span>
-            </div>
-	  
-	  
-	  <!--  <div id="curso" style="padding-top:60px;" class=" center lg-col-3 md-col-4 xs-col-6">
-         <div class="xs-center curso">
-		 <img class="curso" src="img/novedades/seleccionITAbril2020.jpeg" alt="">
-		 </div>
-      </div>  
-	   -->
-
-	  
-   </div>
-   
-   
-   
-	    <!-- Portfolio Section -->
-    <section class="section">
-      <!-- Container Starts -->
-      <div class="container" id="pagos">
-     <!--    <div class="section-header">
-          <h2 class="section-title">Nuevos Cursos</h2>
-          <span>Cursos</span>
-          
-        </div> -->
-        <div class="row">
-         
-		  
-			<div class="col-lg-9 col-xs-9">Selección IT Módulo 1 $<?php echo $item->unit_price; ?>
-			</div>
-			<div class="col-lg-3 col-xs-3">
-			<script
-			  src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
-			  data-preference-id="<?php echo $preference->id; ?>" >
-			</script>
-			</div>
-			<div class="col-lg-9 col-xs-9">Selección IT Módulo 2 Avanzado $<?php echo $item->unit_price; ?>
-			</div>
-			<div class="col-lg-3 col-xs-3" >
-			<script
-			  src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
-			  data-preference-id="<?php echo $preference->id; ?>" >
-			</script>
-			</div>
-			<div class="col-lg-9 col-xs-9">Potencia tu Redes 4.0 Módulo Emprendedores $<?php echo $itemrrss->unit_price; ?>
-			</div>
-			<div class="col-lg-3 col-xs-3">
-			<script
-			  src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
-			  data-preference-id="<?php echo $preferencerrss->id; ?>" >
-			</script>
-			</div>
-			<div class="col-lg-9 col-xs-9">Potencia Tus Redes 4.0 Módulo RRHH $<?php echo $itemrrss->unit_price; ?> 
-			</div>
-			<div class="col-lg-3 col-xs-3">
-			<script
-			  src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
-			  data-preference-id="<?php echo $preferencerrss->id; ?>" >
-			</script>
-			</div>
-			<div class="col-lg-9 col-xs-9">Curso básico de Desarrollo Web Frontend $<?php echo $itemdev->unit_price; ?>
-			</div>
-			<div class="col-lg-3 col-xs-3">
-			<script
-			  src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
-			  data-preference-id="<?php echo $preferencedev->id; ?>" >
-			</script>
-			</div>
-		  
-		 
-		
-			
-        
-      </div>
-      <!-- Container Ends -->
-    </section>
-    <!-- Portfolio Section Ends -->
 	
+	
+   
+	   
 	
 	
 	
@@ -842,7 +765,7 @@
             <div class="cta-trial text-center">
               <h3>¿Est&aacute;s listo para comenzar?</h3>
               <p>Escribinos por mail.<br> O llamanos para Inscribirte</p>
-              <a href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y seleccion de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
+              <a href="mailto:burastchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y seleccion de Personal" target="_blank" class="btn btn-common btn-effect">Contactanos!</a>
             </div>
           </div>
         </div>
@@ -864,9 +787,9 @@
 				Contactanos!!!</p>
               </div>
               <ul class="footer-social">
-                <li><a class="facebook" href="https://www.facebook.com/Infostchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
-                <li><a class="linkedin" href="https://www.linkedin.com/in/infostchr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
-                <li><a class="google-plus" href="mailto:infostchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y seleccion de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
+                <li><a class="facebook" href="https://www.facebook.com/burastchr-675557912900923/" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                <li><a class="linkedin" href="https://www.linkedin.com/in/burastchr/" target="_blank"><i class="lni-linkedin-fill"></i></a></li>
+                <li><a class="google-plus" href="mailto:burastchr@gmail.com?subject=Contacto desde tu web: Consulta Búsquedas y seleccion de Personal" target="_blank"><i class="lni-google-plus"></i></a></li>
               </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
@@ -900,12 +823,12 @@
               <div class="widget">
                 <h3 class="block-title">Instagram</h3>
                 <ul class="instagram-footer">
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
-                  <li><a href="https://www.instagram.com/infostchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta1.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta2.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta3.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta4.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta5.jpg" alt=""></a></li>
+                  <li><a href="https://www.instagram.com/burastchr/?hl=es-la" target="_blank"><img src="img/instagram/insta6.jpg" alt=""></a></li>
                 </ul>
               </div>
             </div>

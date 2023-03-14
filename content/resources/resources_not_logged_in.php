@@ -149,7 +149,7 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 
-<!-- Código de instalación Cliengo para www.stchr.info --> <script type="text/javascript">(function () { var ldk = document.createElement("script"); ldk.type = "text/javascript"; ldk.async = true; ldk.src = "https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+<!-- Código de instalación Cliengo para www.stchr.info  <script type="text/javascript">(function () { var ldk = document.createElement("script"); ldk.type = "text/javascript"; ldk.async = true; ldk.src = "https://s.cliengo.com/weboptimizer/5d319dc5e4b00b6a43d0ed8c/5d319dc6e4b00b6a43d0ed8f.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ldk, s); })();</script>-->
 
   </body>
 </html>
